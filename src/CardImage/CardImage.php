@@ -1,7 +1,6 @@
-
 <?php
 
-namespace Haavir\CardImage
+namespace CardImage;
 
 class CardImage
 {
