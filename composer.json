@@ -11,9 +11,10 @@
     "require": {
         "php": ">=7.2.0"
     },
+    "license": "mit",
     "autoload": {
-        "psr-0": {
-            "CardImage": "src/CardImage/"
+        "psr-4": {
+            "CardImage\\": "src/CardImage/"
         }
     }
 }
